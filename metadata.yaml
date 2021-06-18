@@ -1,0 +1,25 @@
+_repo: Nuts-in-Family-Meals-A-Guide-for-Consumers_65563
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. Agricultural Research Service. Consumer and Food Economics
+      Research Division
+    gutenberg_agent_id: '52262'
+    url: http://www.gutenberg.org/2009/agents/52262
+description: ''
+gutenberg_issued: '2021-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: United States. Department of Agriculture. Home and garden bulletin no.
+  176
+subjects:
+- !lcsh 'Cooking (Nuts)'
+- !lcc 'TX'
+- GITenberg
+title: 'Nuts in Family Meals: A Guide for Consumers'
+url: http://www.gutenberg.org/ebooks/65563
